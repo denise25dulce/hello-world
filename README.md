@@ -1,6 +1,5 @@
-# hello-world
-first github activity
+#include <iostream>
+#include <string>
+using namespace std;
 
-<p align = "center"> Kayla Denise C. Dulce, 21
-  from General Trias, Cavite
-</p>
+cout>>"Kayla Denise C. Dulce";
